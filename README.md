@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @enes6102
-- 👀 I’m interested in software engineering/development
-- 🌱 I’m currently learning about deep learning
-- 📫 How to reach me - DM
-- ⚡ Fun fact: I am NOT from Australia
+Year 12 student
+interested in software engineering/development
+
+How to reach me: DM or abdullahenes6102@gmail.com
